@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed Hamdy\\Desktop\\ahmedhamdy-11-OOP-Assignment-3\\Refactoring\\part-01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F333AD3-2132-B5A6-446A-47FAA2C013CA}|RefactoringLab.Part01.csproj|c:\\users\\ahmed hamdy\\desktop\\ahmedhamdy-11-oop-assignment-3\\refactoring\\part-01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F333AD3-2132-B5A6-446A-47FAA2C013CA}|RefactoringLab.Part01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F333AD3-2132-B5A6-446A-47FAA2C013CA}|RefactoringLab.Part01.csproj|c:\\users\\ahmed hamdy\\desktop\\ahmedhamdy-11-oop-assignment-3\\refactoring\\part-01\\src\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F333AD3-2132-B5A6-446A-47FAA2C013CA}|RefactoringLab.Part01.csproj|solutionrelative:src\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F333AD3-2132-B5A6-446A-47FAA2C013CA}|RefactoringLab.Part01.csproj|c:\\users\\ahmed hamdy\\desktop\\ahmedhamdy-11-oop-assignment-3\\refactoring\\part-01\\src\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F333AD3-2132-B5A6-446A-47FAA2C013CA}|RefactoringLab.Part01.csproj|solutionrelative:src\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Hamdy\\Desktop\\ahmedhamdy-11-OOP-Assignment-3\\Refactoring\\part-01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed Hamdy\\Desktop\\ahmedhamdy-11-OOP-Assignment-3\\Refactoring\\part-01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T15:59:50.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Notifications.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Hamdy\\Desktop\\ahmedhamdy-11-OOP-Assignment-3\\Refactoring\\part-01\\src\\Notifications.cs",
+              "RelativeDocumentMoniker": "src\\Notifications.cs",
+              "ToolTip": "C:\\Users\\Ahmed Hamdy\\Desktop\\ahmedhamdy-11-OOP-Assignment-3\\Refactoring\\part-01\\src\\Notifications.cs",
+              "RelativeToolTip": "src\\Notifications.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvykAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T15:56:50.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Hamdy\\Desktop\\ahmedhamdy-11-OOP-Assignment-3\\Refactoring\\part-01\\src\\OrderProcessor.cs",
+              "RelativeDocumentMoniker": "src\\OrderProcessor.cs",
+              "ToolTip": "C:\\Users\\Ahmed Hamdy\\Desktop\\ahmedhamdy-11-OOP-Assignment-3\\Refactoring\\part-01\\src\\OrderProcessor.cs",
+              "RelativeToolTip": "src\\OrderProcessor.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T15:55:24.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
